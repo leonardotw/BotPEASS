@@ -29,6 +29,12 @@ PRODUCT_KEYWORDS_I:
 - lxc
 - podman
 - container
+- elasticsearch
+- kibana
+- elk
+- nginx
+- traefik
+
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
