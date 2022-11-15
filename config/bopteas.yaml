@@ -20,6 +20,7 @@ DESCRIPTION_KEYWORDS_I:
 - podman
 
 DESCRIPTION_KEYWORDS:
+- ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
 - sudo
@@ -34,4 +35,5 @@ PRODUCT_KEYWORDS_I:
 
 
 PRODUCT_KEYWORDS:
+- kubernetes
 
